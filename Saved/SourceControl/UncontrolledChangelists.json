@@ -1,0 +1,37 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/514569/Unreal Engine/ARNavigation/Content/ARNavigation/Maps/HandheldARNavigation.umap",
+				"D:/514569/Unreal Engine/ARNavigation/Content/College_Map_3_Baseboard_006.uasset",
+				"D:/514569/Unreal Engine/ARNavigation/Content/College_Map_3_Room.uasset",
+				"D:/514569/Unreal Engine/ARNavigation/Content/Wall_material.uasset",
+				"D:/514569/Unreal Engine/ARNavigation/Content/College_Map_3_Baseboard.uasset",
+				"D:/514569/Unreal Engine/ARNavigation/Content/Baseboard_material.uasset",
+				"D:/514569/Unreal Engine/ARNavigation/Content/College_Map_3_Room_001.uasset",
+				"D:/514569/Unreal Engine/ARNavigation/Content/College_Map_3_Baseboard_001.uasset",
+				"D:/514569/Unreal Engine/ARNavigation/Content/College_Map_3_Room_002.uasset",
+				"D:/514569/Unreal Engine/ARNavigation/Content/College_Map_3_Baseboard_002.uasset",
+				"D:/514569/Unreal Engine/ARNavigation/Content/College_Map_3_Room_003.uasset",
+				"D:/514569/Unreal Engine/ARNavigation/Content/College_Map_3_Baseboard_003.uasset",
+				"D:/514569/Unreal Engine/ARNavigation/Content/College_Map_3_Room_004.uasset",
+				"D:/514569/Unreal Engine/ARNavigation/Content/College_Map_3_Baseboard_004.uasset",
+				"D:/514569/Unreal Engine/ARNavigation/Content/College_Map_3_DoorFrame.uasset",
+				"D:/514569/Unreal Engine/ARNavigation/Content/Door_material.uasset",
+				"D:/514569/Unreal Engine/ARNavigation/Content/College_Map_3_Door.uasset",
+				"D:/514569/Unreal Engine/ARNavigation/Content/College_Map_3_Handle_Front.uasset",
+				"D:/514569/Unreal Engine/ARNavigation/Content/Handle_material.uasset",
+				"D:/514569/Unreal Engine/ARNavigation/Content/College_Map_3_Handle_Back.uasset",
+				"D:/514569/Unreal Engine/ARNavigation/Content/College_Map_3_CTRL_Hole.uasset",
+				"D:/514569/Unreal Engine/ARNavigation/Content/hidden_material.uasset",
+				"D:/514569/Unreal Engine/ARNavigation/Content/College_Map_3_CTRL_Baseboard.uasset",
+				"D:/514569/Unreal Engine/ARNavigation/Content/College_Map_3_Room_005.uasset",
+				"D:/514569/Unreal Engine/ARNavigation/Content/College_Map_3_Baseboard_005.uasset",
+				"D:/514569/Unreal Engine/ARNavigation/Content/College_Map_3_Room_006.uasset"
+			]
+		}
+	]
+}
